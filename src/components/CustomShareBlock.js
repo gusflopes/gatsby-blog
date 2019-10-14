@@ -34,9 +34,9 @@ CustomShareBlock.propTypes = {
 };
 
 CustomShareBlock.defaultProps = {
-    url: "https://mywebsite.com/page-to-share/",
-    title: "Default value of title",
-    siteName: "Default value of excerpt"
+    url: "https://gusflopes.dev/page-to-share/",
+    title: "Developer Diary - gusflopes",
+    siteName: "Developer Diary - gusflopes"
 };
 
 export default CustomShareBlock;
