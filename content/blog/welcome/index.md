@@ -2,7 +2,7 @@
 title: 'Welcome Devs'
 tags: []
 published: true
-date: '2019-10-14'
+date: '2019-10-13'
 ---
 
 
