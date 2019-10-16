@@ -2,7 +2,7 @@
 title: "First steps on Git and GitHub"
 tags: ["Git"]
 published: true
-date: '2019-10-16'
+date: '2019-10-10'
 ---
 
 ## First steps on Git 
