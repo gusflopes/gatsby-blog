@@ -2,7 +2,7 @@
 title: "First steps on Git and GitHub"
 tags: ["Git"]
 published: true
-date: '2019-10-10'
+date: '2019-10-16'
 ---
 
 ## First steps on Git 
@@ -139,8 +139,8 @@ git push
 
 Thanks for reading and if you liked it, please share!
 
-By the way, Git is so powerful that I'll just save and commit this post on my local repository of this Blog and, when I push it to GitHub, it will just update my Blog, like this:
+By the way, Git is so powerful that I'll just save and commit this post on my local repository of this Blog and, when I push it to GitHub, it will just update my Blog automatically. But more on that later...
 
-![](../assets/github-update-blog.gif)
+Thank for reading,
 
 **_Gustavo Lopes_**
